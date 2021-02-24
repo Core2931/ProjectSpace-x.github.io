@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ProjectSpace-x.github.io/static/css/main.984a254d.chunk.css",
+    "main.js": "/ProjectSpace-x.github.io/static/js/main.8290b234.chunk.js",
+    "main.js.map": "/ProjectSpace-x.github.io/static/js/main.8290b234.chunk.js.map",
+    "runtime-main.js": "/ProjectSpace-x.github.io/static/js/runtime-main.4e1cb448.js",
+    "runtime-main.js.map": "/ProjectSpace-x.github.io/static/js/runtime-main.4e1cb448.js.map",
+    "static/js/2.d79be12b.chunk.js": "/ProjectSpace-x.github.io/static/js/2.d79be12b.chunk.js",
+    "static/js/2.d79be12b.chunk.js.map": "/ProjectSpace-x.github.io/static/js/2.d79be12b.chunk.js.map",
+    "index.html": "/ProjectSpace-x.github.io/index.html",
+    "static/css/main.984a254d.chunk.css.map": "/ProjectSpace-x.github.io/static/css/main.984a254d.chunk.css.map",
+    "static/js/2.d79be12b.chunk.js.LICENSE.txt": "/ProjectSpace-x.github.io/static/js/2.d79be12b.chunk.js.LICENSE.txt",
+    "static/media/rocket2.de8a3c0a.png": "/ProjectSpace-x.github.io/static/media/rocket2.de8a3c0a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4e1cb448.js",
+    "static/js/2.d79be12b.chunk.js",
+    "static/css/main.984a254d.chunk.css",
+    "static/js/main.8290b234.chunk.js"
+  ]
+}
